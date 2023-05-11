@@ -1,0 +1,1 @@
+This is a application that runs some diagnostics on a git repo
